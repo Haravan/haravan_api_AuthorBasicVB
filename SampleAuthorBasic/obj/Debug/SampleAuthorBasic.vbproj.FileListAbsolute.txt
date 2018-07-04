@@ -1,0 +1,11 @@
+c:\users\mypc\documents\visual studio 2017\Projects\SampleAuthorBasic\obj\Debug\SampleAuthorBasic.vbprojResolveAssemblyReference.cache
+c:\users\mypc\documents\visual studio 2017\Projects\SampleAuthorBasic\obj\Debug\SampleAuthorBasic.Resources.resources
+c:\users\mypc\documents\visual studio 2017\Projects\SampleAuthorBasic\obj\Debug\SampleAuthorBasic.vbproj.GenerateResource.Cache
+c:\users\mypc\documents\visual studio 2017\Projects\SampleAuthorBasic\obj\Debug\SampleAuthorBasic.vbproj.CoreCompileInputs.cache
+c:\users\mypc\documents\visual studio 2017\Projects\SampleAuthorBasic\bin\Debug\SampleAuthorBasic.exe.config
+c:\users\mypc\documents\visual studio 2017\Projects\SampleAuthorBasic\bin\Debug\SampleAuthorBasic.exe
+c:\users\mypc\documents\visual studio 2017\Projects\SampleAuthorBasic\bin\Debug\SampleAuthorBasic.pdb
+c:\users\mypc\documents\visual studio 2017\Projects\SampleAuthorBasic\bin\Debug\SampleAuthorBasic.xml
+c:\users\mypc\documents\visual studio 2017\Projects\SampleAuthorBasic\obj\Debug\SampleAuthorBasic.exe
+c:\users\mypc\documents\visual studio 2017\Projects\SampleAuthorBasic\obj\Debug\SampleAuthorBasic.xml
+c:\users\mypc\documents\visual studio 2017\Projects\SampleAuthorBasic\obj\Debug\SampleAuthorBasic.pdb
